@@ -2,6 +2,7 @@
 
 ## 3rd Place Champion!!!
 
+![data](https://user-images.githubusercontent.com/95922808/180620492-ddf721ac-0d92-4a8d-9dc8-bbbd8dacc1de.jpg)
 
 ### Analysis of the Load X Temperature relationship in the State of São Paulo
 This repository presents the files generated in the ONS Data Science Hackathon.
