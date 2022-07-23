@@ -2,7 +2,13 @@
 
 ## 3rd Place Champion!!!
 
-![data](https://user-images.githubusercontent.com/95922808/180620492-ddf721ac-0d92-4a8d-9dc8-bbbd8dacc1de.jpg)
+<div align="left">
+<img src="https://user-images.githubusercontent.com/95922808/180620492-ddf721ac-0d92-4a8d-9dc8-bbbd8dacc1de.jpg" width="400px" />
+</div>
+
+<div align="left">
+<img src="https://user-images.githubusercontent.com/95922808/180620534-c15dc57a-2630-4a6b-972a-7c5394d7724c.jpeg" width="400px" />
+</div>
 
 ### Analysis of the Load X Temperature relationship in the State of São Paulo
 This repository presents the files generated in the ONS Data Science Hackathon.
