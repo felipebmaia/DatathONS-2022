@@ -10,7 +10,10 @@
 <img src="https://user-images.githubusercontent.com/95922808/180620534-c15dc57a-2630-4a6b-972a-7c5394d7724c.jpeg" width="400px" />
 </div>
 
-### Analysis of the Load X Temperature relationship in the State of São Paulo
+### Analysis of the Load X Temperature relationship in the State of São Paulo.
+
+### The objective of the project was to analyze different regions of the State of São Paulo and establish a more appropriate relationship between global load and temperature. Develop a predictive model based on temperatures and electrical loads and Improve the assertiveness of Electric Load forecasts for the next day.
+
 This repository presents the files generated in the ONS Data Science Hackathon.
 
 DATA:
